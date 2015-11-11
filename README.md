@@ -1,2 +1,2 @@
-# SilverStripe-Behat-Test-Sample
-Behat test sample with SilverStripe test session
+# SilverStripe-Behat-Test-Demo
+A Behat test demo with SilverStripe test session
