@@ -1,0 +1,15 @@
+{
+	"name": "demo",
+	"description": "behat test introduction: Project 'demo'",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.x-dev",
+		"silverstripe/framework": "3.x-dev"
+	},
+	"require-dev": {
+		"silverstripe/behat-extension": "dev-master",
+		"silverstripe/testsession": "dev-master",
+        "vipsoft/jira-extension": "2.5.x-dev"
+    },
+    "minimum-stability": "dev"
+}
